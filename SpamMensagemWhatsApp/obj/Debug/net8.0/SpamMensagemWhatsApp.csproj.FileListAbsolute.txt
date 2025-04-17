@@ -54,3 +54,4 @@ C:\Users\danie\Desktop\SpamMensagemWhatsApp\SpamMensagemWhatsApp\obj\Debug\net8.
 C:\Users\danie\Desktop\SpamMensagemWhatsApp\SpamMensagemWhatsApp\obj\Debug\net8.0\SpamMensagemWhatsApp.pdb
 C:\Users\danie\Desktop\SpamMensagemWhatsApp\SpamMensagemWhatsApp\obj\Debug\net8.0\SpamMensagemWhatsApp.genruntimeconfig.cache
 C:\Users\danie\Desktop\SpamMensagemWhatsApp\SpamMensagemWhatsApp\obj\Debug\net8.0\ref\SpamMensagemWhatsApp.dll
+C:\Users\danie\Desktop\SpamMensagemWhatsApp\SpamMensagemWhatsApp\obj\Debug\net8.0\SpamMensagemWhatsApp.sourcelink.json
