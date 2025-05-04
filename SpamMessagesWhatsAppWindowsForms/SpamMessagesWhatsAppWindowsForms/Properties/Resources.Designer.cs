@@ -103,9 +103,29 @@ namespace SpamMessagesWhatsAppWindowsForms.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Insira_o_nome_do_contato__4_ {
+            get {
+                object obj = ResourceManager.GetObject("Insira o nome do contato (4)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Spam {
             get {
                 object obj = ResourceManager.GetObject("Spam", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Spam1 {
+            get {
+                object obj = ResourceManager.GetObject("Spam1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

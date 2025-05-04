@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpamMensagemWhatsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+021cd61d48ba2a2eae8f2ae4e0a1cd77d5cdaf3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edafbf923816c14d4f33e9c3ce519f908b35b38d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpamMensagemWhatsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpamMensagemWhatsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

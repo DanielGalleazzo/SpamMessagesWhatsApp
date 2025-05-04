@@ -1,0 +1,3 @@
+Insira o número/ nome do grupo/ nome do contato, a quantidade de mensagens e o texto e clique no botão!
+
+03/05/2025 Aparentemente o WhatsApp recebeu atualizações de segurança que impedem o uso de bots com Selenium ou frameworks como EasyAutomationFramework.
